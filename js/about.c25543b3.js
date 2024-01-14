@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweb_implementada_con_firebase"]=self["webpackChunkweb_implementada_con_firebase"]||[]).push([[443],{5572:function(e,n,t){t.r(n),t.d(n,{default:function(){return r}});var a=function(){var e=this;e._self._c;return e._m(0)},s=[function(){var e=this,n=e._self._c;return n("div",{staticClass:"about"},[n("h1",[e._v("This is an about page")])])}],u=t(1001),i={},l=(0,u.Z)(i,a,s,!1,null,null,null),r=l.exports}}]);
+//# sourceMappingURL=about.c25543b3.js.map
